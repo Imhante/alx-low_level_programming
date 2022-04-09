@@ -18,7 +18,7 @@ int main(void)
 
 
 
-	for (i = 0; i < 28; i++)
+	for (i = 0; i < 26; i++)
 
 	{
 
